@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Athena Virtual Assistant](https://github.com/developer-austine)
 
-- 💬 Ask me about **react, kotlin, Laravel, Flutter**
+- 💬 Ask me about **react, React Native, kotlin, NexJs, Flutter**
 
 - 📫 How to reach me **austinealex369@gmail.com**
 
