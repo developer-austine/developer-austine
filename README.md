@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software engineer from kenya specializing in Mobile Development and Programming</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developer-austine&label=Profile%20views&color=0e75b6&style=flat" alt="developer-austine" /> </p>
 
-- 🔭 I’m currently working on [Athena Virtual Assistant](https://github.com/developer-austine)
+- 🔭 I’m currently working on [Analytixs_AI(AAI)](https://github.com/developer-austine)
 
 - 💬 Ask me about **react, React Native, kotlin, NexJs, Flutter**
 
@@ -10,7 +10,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/developer-austine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="developer-austine" height="30" width="40" /></a>
 <a href="https://twitter.com/austinale4783" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="austinale4783" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/developer-austine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="developer-austine" height="30" width="40" /></a>
 <a href="https://fb.com/austine alex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="austine alex" height="30" width="40" /></a>
