@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Austine Alex</h1>
-<h3 align="center">🚀 Software Engineer | Backend APIs & Mobile Dev | Golang • Laravel • React Native • Flutter</h3>
+<h3 align="center">🚀 Software Engineer | Backend APIs & Mobile Dev | Golang • Laravel • Kotlin</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=developer-austine&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
@@ -13,9 +13,9 @@
 ### 👨‍💻 About Me
 - 🔭 Currently building: [**DevBox**](https://github.com/developer-austine/DebBox)  
 - 🚀 Focused on **scalable REST APIs & microservices** with **Golang**  
-- 📱 Crafting **beautiful mobile apps** with **React Native, Flutter & Kotlin**  
+- 📱 Crafting **beautiful mobile apps** with **Kotlin Multiplatform**  
 - 🌐 Backend expertise: **Golang, Laravel, Node.js, PHP**  
-- 💬 Ask me about: **React, Next.js, Golang, Laravel, Flutter, Kotlin**  
+- 💬 Ask me about: **React, Next.js, Golang, Laravel, Kotlin**  
 - 📫 Reach me at: **austinealex369@gmail.com**  
 
 ---
@@ -43,8 +43,6 @@
 #### 🔹 Frontend & Mobile
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
 </p>
@@ -69,15 +67,25 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=developer-austine&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=developer-austine&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=developer-austine&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=developer-austine&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+</div>
+
+---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=developer-austine&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=developer-austine&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
 </p>
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=developer-austine&layout=compact&theme=radical" alt="Top Languages"/>
+  <i>⚡ "Building scalable systems, one API at a time" ⚡</i>
 </p>
-
