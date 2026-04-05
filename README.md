@@ -2,33 +2,6 @@
 <img src="./banner.svg" width="100%" alt="Austine Alex — Neural Network Engineer"/>
 </div>
 
----
-
-### model.py
-```python
-class AustineAlex:
-    def __init__(self):
-        self.layers     = ["Golang", "PyTorch", "TensorFlow", "Kotlin", "Laravel"]
-        self.focus      = "Neural Networks + Scalable APIs"
-        self.building   = "DevBox"
-        self.epoch      = 2026
-
-    def forward(self, problem):
-        return Microservice(api="REST", db="MySQL", scale="prod")
-```
-
-### forward.go
-```go
-func Build(input Problem) Solution {
-    return Microservice{
-        API:    "REST",
-        DB:     "MySQL",
-        Layers: []string{"input", "hidden", "output"},
-    }
-}
-```
-
----
 
 ### 🧠 Stack
 
