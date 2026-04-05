@@ -1,91 +1,85 @@
-<h1 align="center">Hi 👋, I'm Austine Alex</h1>
-<h3 align="center">🚀 Software Engineer | Backend APIs & Mobile Dev | Golang • Laravel • Kotlin</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=developer-austine&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
-  <a href="https://github.com/developer-austine?tab=followers">
-    <img src="https://img.shields.io/github/followers/developer-austine?label=Followers&style=social" alt="GitHub Badge"/>
-  </a>
-</p>
+<div align="center">
+<img src="./banner.svg" width="100%" alt="Austine Alex — Neural Network Engineer"/>
+</div>
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 Currently building: [**DevBox**](https://github.com/developer-austine/DebBox)  
-- 🚀 Focused on **scalable REST APIs & microservices** with **Golang**  
-- 📱 Crafting **beautiful mobile apps** with **Kotlin Multiplatform**  
-- 🌐 Backend expertise: **Golang, Laravel, Node.js, PHP**  
-- 💬 Ask me about: **React, Next.js, Golang, Laravel, Kotlin**  
-- 📫 Reach me at: **austinealex369@gmail.com**  
+### model.py
+```python
+class AustineAlex:
+    def __init__(self):
+        self.layers     = ["Golang", "PyTorch", "TensorFlow", "Kotlin", "Laravel"]
+        self.focus      = "Neural Networks + Scalable APIs"
+        self.building   = "DevBox"
+        self.epoch      = 2026
+
+    def forward(self, problem):
+        return Microservice(api="REST", db="MySQL", scale="prod")
+```
+
+### forward.go
+```go
+func Build(input Problem) Solution {
+    return Microservice{
+        API:    "REST",
+        DB:     "MySQL",
+        Layers: []string{"input", "hidden", "output"},
+    }
+}
+```
 
 ---
 
-### 🌍 Connect With Me
-<p align="center">
-  <a href="https://twitter.com/austinale4783"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white" height="30"/></a>
-  <a href="https://linkedin.com/in/austine-alex"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="30"/></a>
-  <a href="https://fb.com/austine alex"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white" height="30"/></a>
-</p>
+### 🧠 Stack
+
+![Golang](https://img.shields.io/badge/Golang-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
 
-### 🛠️ Tech Stack  
+### 📡 Skill weights
 
-#### 🔹 Backend & APIs
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Golang" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="40" height="40"/>
-</p>
-
-#### 🔹 Frontend & Mobile
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
-</p>
-
-#### 🔹 Programming Languages
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-</p>
-
-#### 🔹 Databases & Tools
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
-</p>
+| Layer | Weight |
+|---|---|
+| `backend_apis` | ████████████████████ 96% |
+| `neural_networks` | ██████████████████░░ 88% |
+| `mobile_kmp` | █████████████████░░░ 82% |
+| `frontend` | ██████████████░░░░░░ 74% |
+| `devops` | █████████████░░░░░░░ 65% |
 
 ---
 
-### 📊 GitHub Stats
+### 🟢 Currently training
+
+> **[DevBox](https://github.com/developer-austine/DebBox)** — scalable dev tooling
+
+---
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=developer-austine&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=developer-austine&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=developer-austine&layout=compact&theme=radical&hide_border=true&langs_count=8)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=developer-austine&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Streak](https://streak-stats.demolab.com?user=developer-austine&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developer-austine&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 </div>
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=developer-austine&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
-</p>
+### 🌍 Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/developer-austine)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/austine-alex)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/austinale4783)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:austinealex369@gmail.com)
 
 ---
 
-<p align="center">
-  <i>⚡ "Building scalable systems, one API at a time" ⚡</i>
-</p>
+<div align="center"><sub><code>epoch 2026</code> — building scalable systems, one layer at a time</sub></div>
