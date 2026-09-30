@@ -11,4 +11,4 @@
 
 ---
 
-<div align="center"><sub><code>epoch 2026</code> — building scalable systems, one layer at a time</sub></div>
+<div align="center"><sub>I love burning GPUs</sub></div>
